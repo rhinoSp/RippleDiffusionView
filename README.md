@@ -1,6 +1,9 @@
 # RippleDiffusionView
 The ripple custom view.
 
+# Screenshot
+![](https://github.com/rhinoSp/RippleDiffusionView/blob/master/screenrecord/screenrecord.gif)  
+
 # Question / Contact Me / Hire Me
 
 Please feel free to ping me at rhino_luo@163.com.
